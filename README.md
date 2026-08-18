@@ -11,7 +11,7 @@
 
 ```bash
 export SPACE_OCR_API_KEY='spocr_...'
-python main.py *_photo.jpg -o out/
+python main.py invoices/*.jpg -o out/
 ```
 
 出力：
